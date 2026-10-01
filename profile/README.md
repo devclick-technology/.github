@@ -15,12 +15,6 @@ Welcome to **DevClick Technology**! We specialize in modern web development usin
 
 ## Get In Touch
 
-- **Email:** [info@devclicktechnology.com](mailto:info@devclicktechnology.com)
-- **Website:** [devclicktechnology.com](https://devclicktechnology.com)
-- **Blog:** [Company Blogs](https://devclicktechnology.com/blog)
-- **Career:** [Open Positions](https://devclicktechnology.com/career)
-- **Twitter:** [@DevClick_](https://x.com/DevClick_)
 - **LinkedIn:** [DevClick Technology](https://www.linkedin.com/company/devclick-technology)
-- **Instagram:** [@devclick.technology](https://www.instagram.com/devclick.technology)
 
 Feel free to contribute and collaborate with us!
